@@ -9,3 +9,4 @@ i'm dealing a bug in the branch bug_handle.
 change in dev
 hello, i'm tony
 test pull in diff branch
+i have a test about tag and merge
